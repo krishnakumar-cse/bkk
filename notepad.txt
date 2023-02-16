@@ -1,3 +1,0 @@
-notepad git
-second line insert
-third
