@@ -2,3 +2,7 @@ first
 second
 third
 fourth
+<<<<<<< HEAD
+=======
+5678check
+>>>>>>> parent of 02eab88 (err)
