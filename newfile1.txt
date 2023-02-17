@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 first
 second
 third
+=======
+first
+>>>>>>> parent of 4052608 (ver1)
